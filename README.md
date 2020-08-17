@@ -1,6 +1,6 @@
 # Titanic_Survivals_Cassification
 
-Classification on titanic dataset on Kaggle.
+Classification on titanic dataset of Kaggle.
 
   step 1 : We have performed simple Classification problem to the kaggle dataset of the titanic survivals based on the few features.
   
